@@ -2,6 +2,8 @@
 title: "Chi Sono"
 ---
 
+<img class="aligncenter size-full" src="https://res.cloudinary.com/carlottastancampiano/image/upload/v1643377673/WhatsApp_Image_2022-01-28_at_14.46.09_a7avz4.jpg" width="100%" height="100%" />
+
 Classe 1992. Nata a Palermo. Emigrata a Perugia per studio poi, a Torino per rincorrere lavoro e passioni. Ora Educatrice zerosei. 
 
 È il lavoro che ho sempre desiderato fare, non potrei immaginarmi a vivere senza questa meravigliosa e talvolta faticosa professione. Adoro leggere e vivere continue avventure. Mi formo e cerco di formare gli altri portando il mio "sapere". 
