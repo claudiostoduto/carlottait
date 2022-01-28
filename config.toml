@@ -56,9 +56,9 @@ images = ["/images/foto.jpg"]
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "Contatti"
     weight = 2.0
-    url = "/blog/"
+    url = "/contatti/"
 
 # Social links
 [[params.social]]
@@ -67,7 +67,7 @@ images = ["/images/foto.jpg"]
     weight = 6
     url = "https://www.linkedin.com/in/carlotta-stancampiano-45394821b/"
 [[params.social]]
-    name = "Podcast"
+    name = "Mail"
     icon = "fas fa-envelope"
     weight = 7
-    url = "mailto:carlotta.stancampiano@outlook.it"
+    url = "mailto:carlotta.stancampiano1@gmail.com"
