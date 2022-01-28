@@ -16,15 +16,15 @@ dateformat = "2 January 2006"
 keywords = "Educatrice Prima Infanzia,Educatrice Prima Infanzia torino, Educatrice Prima Infanzia torino, educratice torino, insegnanti torino, torino"
 facebook = "https://facebook.com/cstoduto"
 twitter = "@claudiostoduto"
-avatarurl = "images/foto.jpeg"
-favicon_32 = "images/fav.jpeg"
-favicon_16 = "images/fav.jpeg"
+avatarurl = "images/foto.jpg"
+favicon_32 = "images/fav.jpg"
+favicon_16 = "images/fav.jpg"
 footercontent = "Carlotta Stancampiano"
 hidecredits = true
 hidecopyright = false
 rtl = false
 math = true
-images = ["/images/foto.jpeg"]
+images = ["/images/foto.jpg"]
 
 [taxonomies]
   category = "categories"
@@ -34,17 +34,17 @@ images = ["/images/foto.jpeg"]
     name = "Carlotta Stancampiano"
 
     [params.publisher.logo]
-      url = "/images/foto.jpeg"
+      url = "/images/foto.jpg"
       width = 120
       height = 120
 
     [params.logo]
-      url = "/images/foto.jpeg"
+      url = "/images/foto.jpg"
       width = 120
       height = 120
 
     [params.image]
-      url = "/images/foto.jpeg"
+      url = "/images/foto.jpg"
       width = 600
       height = 600
 
