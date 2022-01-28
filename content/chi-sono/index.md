@@ -2,25 +2,29 @@
 title: "Chi Sono"
 ---
 
-![Claudio Stoduto - Hollywood](https://res.cloudinary.com/claudiostoduto/image/upload/v1613929477/fb7rtenzqu8v94abuyif.jpg)
+Classe 1992. Nata a Palermo. Emigrata a Perugia per studio poi, a Torino per rincorrere lavoro e passioni. Ora Educatrice zerosei. 
 
-#Hollywood
+È il lavoro che ho sempre desiderato fare, non potrei immaginarmi a vivere senza questa meravigliosa e talvolta faticosa professione. Adoro leggere e vivere continue avventure. Mi formo e cerco di formare gli altri portando il mio "sapere". 
 
-Sulla carta posso dire di essere un **giornalista con una laurea in Economia Aziendale**. Personalente mi definisco *l'uomo quasi sempre in camicia* con una passione per il denaro. 
+Ho lavorato con bambini e bambine dai zero ai sei anni di età. Laureata in Scienze dell'Educazione (L-19) presso l'Università degli Studi di Perugia poi, specializzata nella Didattica del Metodo Montessori con Fondazione Montessori Italia. 
 
-Sono nel mondo digitale da quando avevo **14 anni**, dai tempi di ForumFree e simili. Tutto era più bello, anarchico a modo suo e primordiale. Poi ho scoperto il mondo dei blog creando Technology Mania e trasformandolo poi in [**instaNews.it**](https://claudiostoduto.com/blog/instanews-addio/), un **blog di opinioni personali**, che mi ha permesso di collaborare con le più grandi aziende del settore tecnologico. È stato il punto di partenza di tutto il mio mondo di oggi: dal diventare un giornalista alle collaborazioni con le varie testate italiane. Posso dire che a modo suo ha influenzato anche il mio percorso universitario con Economia Aziendale come unica scelta naturale. Il tempo mi ha portato a coltivare anche una seconda grande passione, quella del [podcasting](https://claudiostoduto.com/podcast).
+Ora Educatrice Zerotre a Torino presso i Nidi Comunali sotto appalto ORSA ( Consorzio Stabile KCS). 
 
-Oggi sono cresciuto, forse. 
+Da neo laureata ho iniziato una grande esperienza lavorativa come Maestra tresei a Scuola dell'Infanzia in un piccolo e grazioso paesino del Piemonte, precisamente Oviglio (AL). Qui inizia il mio, vero, percorso lavorativo. Il mio viaggio con ORSA. 
 
-### I miei progetti personali:
-* **[iPaddista](https://claudiostoduto.com/ipaddista)**: estensione nonché rappresentazione dei miei pensieri sull'era post-PC;
-* **[Il Rompiscatole](https://www.claudiostoduto.com/podcast/)**: il mio podcast settimanale in cui parlavo del mondo che ci circonda e dei miei esperimenti.
+Un viaggio in crescita continua. 
 
-### Archivio:
+Lo stesso anno, il 2018, inizia per "noi" una nuova sfida che vede protagonista Barriera di Milano in uno spazio o meglio un "Villaggio per Crescerei" aperto a bambine e bambini d'ogni età e nazionalità ed alle loro Famiglie. 
 
-* **[FAKE](https://claudiostoduto.com/FAKE)**: il mio podcast contenitore | Settembre 2021;
-* **[IN Tech](https://www.claudiostoduto.com/podcast/)**: il mio podcast iniziale che parlava solo di tecnologia | Ottobre 2020;
-* **[instaNews.it](https://www.instaNews.it)**: nato come blog personale, è stato un sito di informazione d'opinione. | Ottobre 2020;
-* **[Like Torino](https://www.liketorino.it)**: più di una semplice community su Instagram realtiva alla città di Torino | Settembre 2020;
-* **[IN Sport](https://www.claudiostoduto.com/podcast/)**: il podcast sullo sport in generale | Settembre 2020.
+"Un Villaggio per Crescere è un progetto su scala nazionale, proposto e coordinato dal Centro per la Salute del Bambino". Un progetto finanziato per il contrasto della povertà educativa minorile. 
 
+Questo viaggio prosegue per tutto l'anno.
+
+Nel 2019 una nuova sfida. Vengo trasferita a Torino e qui inizia il mio primo vero viaggio nel mondo dei Nidi. Con esattezza al Nido Pablo Picasso. Un viaggio che tutt'ora continua. 
+
+Nel Febbraio del 2021 si presenta una nuova esperienza, una collaborazione attiva e partecipativa con l'Ufficio Qualità, Ricerca e Sviluppo del Comune di Torino che vede protagonista la prima lettura del documento "Linee pedagogiche per il Sistema integrato zerosei". Una lettura condivisa con Educatori ed Insegnanti del territorio che collaborano in un aperto dialogo sulla bozza delle Linee Guida. 
+
+Lo stesso anno, precisamente il 22 Settembre vengo convocata dall'Ufficio Qualità, Ricerca e Sviluppo a seguito di una mia candidatura per una collaborazione con l'Università Degli Studi di Torino per la conduzione di un laboratorio. 
+Una collaborazione volontaria a contratto gratuito che tutt'ora continua e mi vede come docente di laboratorio nel corso di laurea in Scienze dell'Educazione. Laboratorio dal Titolo " La progettazione delle esperienze educative: spazi, materiali e tempi". 
+
+Una collaborazione tutt'ora in atto.

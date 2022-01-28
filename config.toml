@@ -1,25 +1,25 @@
-baseURL = "https://claudiostoduto.com"
+baseURL = "https://carlottastancampiano.it"
 languageCode = "it"
 defaultContentLanguage = "it"
-title = "Claudio Stoduto"
+title = "Carlotta Stancampiano"
 theme = "hugo-coder"
-googleAnalytics = "UA-102432953-1"
-disqusShortname = "claudiostoduto-com-2"
+googleAnalytics = ""
+disqusShortname = ""
 enableRobotsTXT =  true
 
 [params]
-brand = "Claudio Stoduto"
-description = "Sono Claudio Stoduto un ex-giornalista, podcaster ed iPaddista con la passione per la tecnologia, l'informazione e la comunicazione."
-author = "Claudio Stoduto"
-info = "Ex giornalista. Podcaster."
+brand = "Carlotta Stancampiano"
+description = "Sono Carlotta Stancampiano un'Educatrice Prima Infanzia"
+author = "Carlotta Stancampiano"
+info = "Educatrice Prima Infanzia"
 dateformat = "2 January 2006"
-keywords = "consulente digitale,consulente,blog,developer,personal,podcast,podcaster,tecnologia,sport,innovazione,tech,consulenza torino,consulente informatico,consulente digitale torino,consulente torino,web marketing torino, digital consultant torino"
+keywords = "Educatrice Prima Infanzia,Educatrice Prima Infanzia torino, Educatrice Prima Infanzia torino, educratice torino, insegnanti torino, torino"
 facebook = "https://facebook.com/cstoduto"
 twitter = "@claudiostoduto"
 avatarurl = "images/foto.jpg"
 favicon_32 = "images/fav.png"
 favicon_16 = "images/fav.png"
-footercontent = "Claudio Stoduto"
+footercontent = "Carlotta Stancampiano"
 hidecredits = true
 hidecopyright = false
 rtl = false
@@ -31,7 +31,7 @@ images = ["/images/foto.jpg"]
   tag = "tags"
 
 [params.publisher]
-    name = "Claudio Stoduto"
+    name = "Carlotta Stancampiano"
 
     [params.publisher.logo]
       url = "/images/foto.jpg"
@@ -58,39 +58,16 @@ images = ["/images/foto.jpg"]
 [[menu.main]]
     name = "Blog"
     weight = 2.0
-    url = "/progetti/"
-
-    
-[[menu.main]]
-    name = "Newsletter"
-    weight = 3.0
-    url = "/newsletter/"
-
+    url = "/blog/"
 
 # Social links
 [[params.social]]
-    name = "Telegram"
-    icon = "fab fa-telegram"
+    name = "Linkedin"
+    icon = "fab fa-linkedin"
     weight = 6
-    url = "https://t.me/ilrompiscatole"
+    url = "https://www.linkedin.com/in/carlotta-stancampiano-45394821b/"
 [[params.social]]
     name = "Podcast"
-    icon = "fas fa-podcast"
+    icon = "fas fa-envelope"
     weight = 7
     url = "https://claudiostoduto.com/podcast"
-[[params.social]]
-    name = "Libri"
-    icon = "fas fa-book"
-    weight = 9
-    url = "https://claudiostoduto.com/libreria"
-[[params.social]]
-    name = "iPaddista"
-    icon = "fas fa-tablet-alt"
-    weight = 9
-    url = "https://claudiostoduto.com/ipaddista"
-[[params.social]]
-    name = "Allenamenti"
-    icon = "fas fa-dumbbell"
-    weight = 10 
-    url = "https://claudiostoduto.com/categories/allenamenti/"
-    
