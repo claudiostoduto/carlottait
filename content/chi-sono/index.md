@@ -6,7 +6,7 @@ title: "Chi Sono"
 
 Classe 1992. Nata a Palermo. Emigrata a Perugia per studio poi, a Torino per rincorrere lavoro e passioni. 
 
-Ora Educatrice 0-6.  
+Ora Educatrice 0-3.  
 
 Adoro leggere e vivere continue avventure in campo personale e lavorativo. Mi formo e cerco di formare gli altri portando il mio "sapere".
 
