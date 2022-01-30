@@ -2,7 +2,7 @@
 title: "Chi Sono"
 ---
 
-<img class="aligncenter size-full" src="https://res.cloudinary.com/carlottastancampiano/image/upload/v1643377673/WhatsApp_Image_2022-01-28_at_14.46.09_a7avz4.jpg" width="50%" height="50%" />
+<img class="wp-image-30 aligncenter" src="https://res.cloudinary.com/carlottastancampiano/image/upload/v1643559588/p1cwivvhqfr9ay1kdt8u.jpg" width="100%" height="100%" data-recalc-dims="1" />
 
 Classe 1992. Nata a Palermo. Emigrata a Perugia per studio poi, a Torino per rincorrere lavoro e passioni. 
 
